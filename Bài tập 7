@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Trang HUMG</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="menu">
+    <div>Thực tập, Đồ án</div>
+    <div>Thủ tục Một Cửa</div>
+    <div>Một Cửa online</div>
+    <div>E-mail HUMG</div>
+</div>
+
+<div class="main">
+
+    <div class="login">
+        <h3>Tài khoản</h3>
+        <input type="text">
+
+        <h3>Mật khẩu</h3>
+        <input type="password">
+
+        <button>Đăng nhập</button>
+        <button class="office">Đăng nhập với Microsoft office 365</button>
+    </div>
+
+    <div class="news">
+        <h2>📢 Tin tức</h2>
+
+        <div class="box">
+            <div class="item">
+                <div class="picture">NO IMAGE</div>
+                
+            </div>
+
+            <div class="item">
+                <div class="picture">NO IMAGE</div>
+                
+            </div>
+
+            <div class="item">
+                
+                <span>Thông tin của trường Đại học Mỏ - Địa chất...</span>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+</body>
+</html>
