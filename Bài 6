@@ -1,0 +1,22 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ví dụ</title>
+    <style>
+        p.nhom {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+
+    <h1 style="color: red;">Truong dai hoc mo dia chat</h1>
+
+    <p class="nhom">Nhóm 03</p>
+    <p>Truong dai hoc mo dia chat</p>
+
+    <div id="ten-khoa">Khoa CNTT</div>
+
+</body>
+</html>
