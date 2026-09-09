@@ -1,0 +1,185 @@
+DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+</head>
+<body>
+  <h1>
+    <p><b>sở thích</b></p>
+
+40
+
+Game: <input type="checkbox" name="soThich" value="game"><br>
+
+41
+
+Music:<input type="checkbox" name="soThich" value="music"><br>
+
+42
+
+43
+
+Sport:<input type="checkbox" name="soThich" value="sport"><br>
+
+44
+
+</div>
+
+45
+
+<div>
+
+<p><b>Trình duyệt web hay sử dụng</b></p>
+
+46
+
+<input list "browsers">
+
+17
+
+<datalist id="browsers">
+
+49
+
+<option value="Internet Explorer">
+
+50
+
+<option value="Firefox">
+
+51
+
+<option value="Chrome">
+
+52
+
+<option value="Opera">
+
+53
+
+</datalist>
+
+549
+
+<select name="browsers">
+
+55
+
+<option value="Internet Explorer">Internet Explorer</option>
+
+56
+
+<option value="Firefox">Firefox</option>
+
+57
+
+50
+
+<option value="Chrome">Chrome</option>
+
+59
+
+<option value="Opera">Opera</option>
+
+60
+
+<option value="Safari">Safari</option>
+
+61
+
+<option value="Cốc Cốc">
+
+62
+<form>
+
+7
+
+72
+
+</div>
+
+73
+
+<iframe
+
+74
+
+width="560"
+
+75
+
+76
+
+77
+
+78
+
+79
+
+80
+
+81
+
+height="315"
+
+src="https://www.youtube.com/embed/L2NAh3CIdig?si=0pQM7Insn518mcDs"
+
+title="YouTube video player"
+
+frameborder="0"
+
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pie
+
+referrerpolicy="strict-origin-when-cross-origin"
+
+allowfullscreen></iframe>
+
+82
+
+</form>
+
+83
+
+84
+
+85
+
+86
+
+87
+
+<MARQUEE>
+
+<img src="/anh/pug.jpg">
+
+</MARQUEE>
+
+88
+
+89
+
+<audio controls>
+
+<source src="/anh/BauTroiMo1.mp3" type="audio/mp3">
+
+90
+
+91
+
+92
+
+93
+
+</audio>
+
+<video controls>
+
+<source src="/anh/1.mp4" type="video/mp4">
+
+94
+
+</video>
+  
+</select>
+</
